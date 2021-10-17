@@ -1,4 +1,5 @@
 # Cloned homepage of Ola Website
 
 
-![screencapture-file-D-HTML-Ola-index-html-2021-10-17-20_11_25](https://user-images.githubusercontent.com/68782268/137632486-fd85fa8a-c907-49a7-8d4e-2d8034e0cabc.png)
+![screencapture-file-D-HTML-Ola-index-html-2021-10-17-20_20_41](https://user-images.githubusercontent.com/68782268/137632759-d65d0862-f93a-4222-be7c-47cf3cb60aea.png)
+
